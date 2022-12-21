@@ -6,14 +6,14 @@ import homeWork.homeWork4.operations.LibraryOperations;
 import java.util.Scanner;
 
 /**
- * Класс отвечающий за запуск ДЗ 4
+ * Класс отвечающий за запуск ДЗ 4.
  *
  * @author Mehel_DS created 21.12.2022
  */
 public class HomeWork4 {
 
     /**
-     * Запуск ДЗ 4
+     * Запуск ДЗ 4.
      */
     public static void run() {
 
