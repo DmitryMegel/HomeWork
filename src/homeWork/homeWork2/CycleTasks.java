@@ -7,6 +7,10 @@ package homeWork.homeWork2;
  */
 public class CycleTasks {
 
+    public static void main(String[] args) {
+        task1(5);
+    }
+
     /**
      * Задача 1.
      */

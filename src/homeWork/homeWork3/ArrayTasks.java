@@ -11,6 +11,10 @@ import java.util.Scanner;
  */
 public class ArrayTasks {
 
+    public static void main(String[] args) {
+        task1();
+    }
+
     /**
      * Задача 1.
      */

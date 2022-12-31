@@ -15,7 +15,7 @@ public class HomeWork5 {
     /**
      * Запуск ДЗ 5.
      */
-    public static void run() {
+    public static void main(String[] args) {
 
         System.out.println("=== PHONE ===");
         // создание экземпляров

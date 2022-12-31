@@ -15,7 +15,7 @@ public class HomeWork4 {
     /**
      * Запуск ДЗ 4.
      */
-    public static void run() {
+    public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
         int action;
