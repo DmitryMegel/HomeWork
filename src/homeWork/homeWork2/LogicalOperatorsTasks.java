@@ -10,6 +10,10 @@ import java.util.Scanner;
  */
 public class LogicalOperatorsTasks {
 
+    public static void main(String[] args) {
+        System.out.println(task1());
+    }
+
     /**
      * Задача 1.
      */

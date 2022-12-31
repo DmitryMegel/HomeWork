@@ -9,6 +9,10 @@ import java.util.Scanner;
  */
 public class StringTasks {
 
+    public static void main(String[] args) {
+        task1();
+    }
+
     /**
      * Задача 1.
      */
