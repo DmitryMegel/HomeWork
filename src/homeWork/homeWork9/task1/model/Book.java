@@ -1,4 +1,4 @@
-package homeWork.homeWork9.model;
+package homeWork.homeWork9.task1.model;
 
 /**
  * Класс с описанием книг.

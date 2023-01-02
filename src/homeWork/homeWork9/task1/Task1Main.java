@@ -1,13 +1,12 @@
-package homeWork.homeWork9;
+package homeWork.homeWork9.task1;
 
-import homeWork.homeWork9.model.Reader;
-import homeWork.homeWork9.operations.LibraryOperations;
+import homeWork.homeWork9.task1.model.Reader;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class HomeWork9 {
+public class Task1Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
